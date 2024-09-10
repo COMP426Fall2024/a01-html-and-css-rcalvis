@@ -35,6 +35,26 @@ table, th, td {
     text-align: center;
 }
 
+ul {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
+
+ul li {
+    padding: 5px;
+}
+
+ol li {
+    padding: 5px;
+}
+
 table img {
     max-width: 100px;
 }
