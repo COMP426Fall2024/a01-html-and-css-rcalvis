@@ -1,10 +1,12 @@
 
 h1 {
     font-family:'Times New Roman', Times, serif;
+    color: #37a2b8;
 }
 
 h5 {
     font-family:'Courier New', Courier, monospace;
+    color: #e62d20;
 }
 
 #intro {
@@ -15,4 +17,13 @@ h5 {
     border-style: dotted;
     border-width: 3px;
     border-color: #cad8db;
+    background-color: #d7f0f5;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+table {
+    
 }
