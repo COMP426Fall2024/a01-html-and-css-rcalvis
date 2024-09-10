@@ -8,23 +8,20 @@ h1 {
 h5 {
     font-family:'Courier New', Courier, monospace;
     color: #e62d20;
+    text-align: center;
 }
 
 .intro {
     background-color: #e4eef0;
+    text-align: center;
 }
 
 .navigation {
+    text-align: center;
     border-style: dotted;
     border-width: 3px;
     border-color: #cad8db;
     background-color: #d7f0f5;
-}
-
-body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    background-color: #e8f7fa;
 }
 
 table, th, td {
@@ -44,10 +41,13 @@ a:visited {
     color: #76db58;
 }
 
-.center {
-    /* Code here */
+#miami {
+    background-color: #84bdbf
 }
 
+#foxborough {
+    background-color: #90cfd1
+}
 
 select {
     background-color: #cdc6ff;
