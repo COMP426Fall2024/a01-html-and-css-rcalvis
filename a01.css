@@ -76,11 +76,11 @@ a:visited {
     color: #76db58;
 }
 
-#miami:first-child{
+#miami {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-#foxborough:first-child {
+#foxborough {
     font-family:cursive
 }
 
@@ -88,8 +88,4 @@ select {
     background-color: #cdc6ff;
     text-align: center;
     font-size: 12pt;
-}
-
-option:hover {
-    font-weight: bold;
 }
