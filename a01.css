@@ -12,7 +12,7 @@ h5 {
 }
 
 .intro {
-    background-color: #e4eef0;
+    background-color: #b9e5ee;
     text-align: center;
 }
 
@@ -30,8 +30,8 @@ body {
     background-color: #e8f7fa;
 }
 
-table, th, td {
-    border: 1px, solid;
+table {
+    border-collapse: collapse;
     text-align: center;
 }
 
