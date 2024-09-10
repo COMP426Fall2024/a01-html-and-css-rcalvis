@@ -2,6 +2,7 @@
 h1 {
     font-family:'Times New Roman', Times, serif;
     color: #37a2b8;
+    text-align: center;
 }
 
 h5 {
@@ -9,11 +10,11 @@ h5 {
     color: #e62d20;
 }
 
-#intro {
+.intro {
     background-color: #e4eef0;
 }
 
-#navigation {
+.navigation {
     border-style: dotted;
     border-width: 3px;
     border-color: #cad8db;
@@ -21,9 +22,35 @@ h5 {
 }
 
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #e8f7fa;
 }
 
-table {
-    
+table, th, td {
+    border: 1px, solid;
+    text-align: center;
+}
+
+a:hover {
+    color: #9d6ed4;
+}
+
+a:link {
+    color: #c2cfc2;
+}
+
+a:visited {
+    color: #76db58;
+}
+
+.center {
+    /* Code here */
+}
+
+
+select {
+    background-color: #cdc6ff;
+    text-align: center;
+    font-size: 12pt;
 }
