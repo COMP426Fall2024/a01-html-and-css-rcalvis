@@ -41,6 +41,7 @@ table img {
 
 a:hover {
     color: #9d6ed4;
+    font-weight: bold;
 }
 
 a:link {
@@ -63,4 +64,8 @@ select {
     background-color: #cdc6ff;
     text-align: center;
     font-size: 12pt;
+}
+
+select:hover {
+    font-weight: bold;
 }
