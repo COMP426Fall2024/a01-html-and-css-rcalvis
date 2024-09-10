@@ -1,0 +1,18 @@
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h5 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+#intro {
+    background-color: #e4eef0;
+}
+
+#navigation {
+    border-style: dotted;
+    border-width: 3px;
+    border-color: #cad8db;
+}
