@@ -24,9 +24,19 @@ h5 {
     background-color: #d7f0f5;
 }
 
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #e8f7fa;
+}
+
 table, th, td {
     border: 1px, solid;
     text-align: center;
+}
+
+table img {
+    max-width: 100px;
 }
 
 a:hover {
